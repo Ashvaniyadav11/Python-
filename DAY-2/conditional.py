@@ -2,7 +2,7 @@
 #if,elif,else
 
 #if 
-
+'''
 if condition :
   #code
 
@@ -99,6 +99,6 @@ match color:
         print("Stop")
     case _: #Deafault
         print("Wrong color entered")
-
+'''
 
 
