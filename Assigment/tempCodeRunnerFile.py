@@ -1,0 +1,1 @@
+book1.add_reviews(5)
